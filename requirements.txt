@@ -1,0 +1,9 @@
+# Core dependencies
+customtkinter>=5.2.0
+pillow>=9.5.0
+requests>=2.30.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# Dev dependencies
+pytest>=7.3.1
